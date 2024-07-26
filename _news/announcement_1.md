@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Masking Strategies has been accepted at ICCVW-OODCV 2023
 date: 2023-08-23 15:59:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
