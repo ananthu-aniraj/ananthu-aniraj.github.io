@@ -14,5 +14,5 @@ Happy to share that my new paper, titled 𝐏𝐃𝐢𝐬𝐜𝐨𝐅𝐨𝐫�
 
 In our work, we explore computer vision methods that perform unsupervised part discovery. We introduce a novel method and training objective for this task using self-supervised vision transformers, achieving state-of-the-art results. Our model learns to discover consistent, discriminative parts that are useful for solving image classification tasks, taking a step towards inherently interpretable models.
 
-Preprint: [ArXiv](https://arxiv.org/abs/2407.04538).
-Code and pre-trained models: [GitHub](https://github.com/ananthu-aniraj/pdiscoformer)
+- Preprint: [ArXiv](https://arxiv.org/abs/2407.04538).
+- Code and pre-trained models: [GitHub](https://github.com/ananthu-aniraj/pdiscoformer)
