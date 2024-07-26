@@ -1,13 +1,24 @@
 ---
 ---
 
-@InProceedings{Aniraj_2023_ICCV,
-    author    = {Aniraj, Ananthu and Dantas, Cassio F. and Ienco, Dino and Marcos, Diego},
-    title     = {Masking Strategies for Background Bias Removal in Computer Vision Models},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
-    month     = {October},
-    year      = {2023},
-    pages     = {4397-4405}
+@INPROCEEDINGS {10351024,
+author = {A. Aniraj and C. F. Dantas and D. Ienco and D. Marcos},
+booktitle = {2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)},
+title = {Masking Strategies for Background Bias Removal in Computer Vision Models},
+year = {2023},
+volume = {},
+issn = {},
+pages = {4399-4407},
+abstract = {Models for fine-grained image classification tasks, where the difference between some classes can be extremely subtle and the number of samples per class tends to be low, are particularly prone to picking up background-related biases and demand robust methods to handle potential examples with out-of-distribution (OOD) backgrounds. To gain deeper insights into this critical problem, our research investigates the impact of background-induced bias on fine-grained image classification, evaluating standard backbone models such as Convolutional Neural Network (CNN) and Vision Transformers (ViT). We explore two masking strategies to mitigate background-induced bias: Early masking, which removes background information at the (input) image level, and late masking, which selectively masks high-level spatial features corresponding to the background. Extensive experiments assess the behavior of CNN and ViT models under different masking strategies, with a focus on their generalization to OOD backgrounds. The obtained findings demonstrate that both proposed strategies enhance OOD performance compared to the baseline models, with early masking consistently exhibiting the best OOD performance. Notably, a ViT variant employing GAP-Pooled Patch token-based classification combined with early masking achieves the highest OOD robustness.Our code and models are available at: GitHub},
+keywords = {computer vision;computational modeling;transformers;data models;robustness;convolutional neural networks;task analysis},
+doi = {10.1109/ICCVW60793.2023.00474},
+url = {https://doi.ieeecomputersociety.org/10.1109/ICCVW60793.2023.00474},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {oct},
+code = {https://github.com/ananthu-aniraj/masking_strategies_bias_removal},
+pdf = {https://httpsopenaccess.thecvf.com/content/ICCV2023W/OODCV/html/Aniraj_Masking_Strategies_for_Background_Bias_Removal_in_Computer_Vision_Models_ICCVW_2023_paper.html},
+selected = {true},
 }
 
 @misc{aniraj2024pdiscoformerrelaxingdiscoveryconstraints,
@@ -17,5 +28,8 @@
       eprint={2407.04538},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.04538}, 
+      arxiv={2407.04538v3},
+      code={https://github.com/ananthu-aniraj/pdiscoformer},
+      pdf={https://arxiv.org/pdf/2407.04538},
+      selected={true},
 }
