@@ -24,6 +24,6 @@ I hold an M.Sc. in Embedded Systems from the [University of Twente](https://www.
 
 Previously, I was a Computer Vision and Machine Learning R&D Engineer and, prior to that, an intern at the R&D department of [Lely](https://www.lely.com/en/). At Lely, I researched and developed novel computer vision solutions for dairy farms, including dynamic obstacle avoidance systems for self-driving vehicles and algorithms for automated health monitoring of cows by tracking their movement patterns across multiple cameras. Some of my work at Lely is now available as published international patents.
 
-I am passionate about developing AI systems that are not only accurate but also interpretable and explainable. In this way, I believe we can build trust in AI systems and perhaps even understand how to improve them. I am also interested in using AI to solve real-world problems and am a strong advocate for open science and reproducible research.
+I am passionate about developing AI systems that are not only accurate but also interpretable and explainable. In this way, I believe we can build trust in AI systems and perhaps even understand how to improve them. I am also interested in using AI to solve real-world problems and am a strong advocate for reproducible research.
 
 
