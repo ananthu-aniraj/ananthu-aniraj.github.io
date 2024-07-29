@@ -8,10 +8,10 @@ subtitle: PhD Researcher | Inria
 #   align: right
 #   image: prof_pic.jpg
 #   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+# more_info: >
+#   <p>555 your office number</p>
+#   <p>123 your address street</p>
+#   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,4 +25,3 @@ I hold an M.Sc. in Embedded Systems from the [University of Twente](https://www.
 Previously, I worked as a Computer Vision and Machine Learning R&D Engineer and, before that, as an intern at the R&D department of [Lely](https://www.lely.com/en/). At Lely, I researched and developed innovative computer vision solutions for dairy farms. This included projects on visual scene understanding for self-driving vehicles and algorithms for automated health monitoring of cows by tracking their movement patterns across multiple barn cameras. Some of my work at Lely has been published as international patents, which you can view [here](https://patents.google.com/?inventor=Ananthu+Aniraj).
 
 I am passionate about developing AI systems that are not only accurate but also interpretable and explainable. I believe that interpretability is key in building trust in AI systems. I am also committed to using AI to solve real-world problems and am a strong advocate for reproducible research.
-
