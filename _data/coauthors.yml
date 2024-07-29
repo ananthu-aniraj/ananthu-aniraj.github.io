@@ -34,13 +34,20 @@
     url: https://en.wikipedia.org/wiki/Max_Planck
 
 "marcos":
-  - firstname: ["Diego"]
+  - firstname: ["Diego", "D. Marcos", "Diego Marcos"]
     url: https://scholar.google.com/citations?user=IUqydU0AAAAJ
 
 "dantas":
-  - firstname: ["Cassio F."]
+  - firstname:
+      [
+        "Cassio F.",
+        "C. F. Dantas",
+        "Cassio F. Dantas",
+        "C. F.",
+        "Cassio Fraga Dantas",
+      ]
     url: https://cassiofragadantas.github.io/
 
 "ienco":
-  - firstname: ["Dino"]
+  - firstname: ["Dino", "D. Ienco", "Dino Ienco"]
     url: https://scholar.google.com/citations?user=C8zfH3kAAAAJ

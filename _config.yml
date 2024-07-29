@@ -312,8 +312,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Aniraj]
-  first_name: [Ananthu]
+  last_name: [Aniraj, ANIRAJ]
+  first_name: [Ananthu, A.]
 
   style: apa
   locale: en
