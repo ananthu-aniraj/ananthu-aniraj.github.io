@@ -89,7 +89,7 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: ananthu-aniraj-03059082 # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: 0009-0003-4521-036X # your ORCID ID
+orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -112,7 +112,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Please reach out to me through LinkedIn (for professional inquiries) or email (for questions about my research or interest in collaboration).
+  Please reach out to me through LinkedIn (for professional inquiries) or email (for interest in research collaboration).
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
