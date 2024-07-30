@@ -24,3 +24,6 @@
 .ai-google-scholar:before {
   content: "\e9d4";
 }
+.ai-orcid:before {
+  content: "\e9d9";
+}
