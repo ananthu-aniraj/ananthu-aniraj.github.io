@@ -39,11 +39,7 @@
  *   highlightSearchTerm({ search: search.value, selector: ".content" });
  * });
  */
-const highlightSearchTerm = ({
-  search,
-  selector,
-  customHighlightName = "search",
-}) => {
+const highlightSearchTerm = ({ search, selector, customHighlightName = "search" }) => {
   if (!selector) {
     throw new Error("The selector argument is required");
   }
