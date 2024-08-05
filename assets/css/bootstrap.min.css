@@ -1710,6 +1710,9 @@ a.close.disabled {
 .rounded {
   border-radius: 0.25rem !important;
 }
+.rounded-circle {
+  border-radius: 50% !important;
+}
 .clearfix::after {
   display: block;
   clear: both;
