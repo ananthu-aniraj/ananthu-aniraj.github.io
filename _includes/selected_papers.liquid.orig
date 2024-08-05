@@ -1,7 +1,0 @@
-<div class="publications">
-<<<<<<< HEAD
-  {% bibliography -f {{ site.scholar.bibliography }} --group_by none --query @*[selected=true]* %}
-=======
-  {% bibliography --group_by none --query @*[selected=true]* %}
->>>>>>> upstream/master
-</div>
