@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pdiscoformer has been accepted at ECCV 2024
+title: Pdiscoformer has been accepted at ECCV 2024 as an oral presentation!
 date: 2024-07-18 15:59:00-0400
 inline: false
 related_posts: false
