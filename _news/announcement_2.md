@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-PDiscoFormer has been accepted at the main conference of [ECCV 2024](https://eccv2024.ecva.net/).
+PDiscoFormer has been accepted at the main conference of [ECCV 2024](https://eccv2024.ecva.net/) as an oral presentation!
 
 ---
 
