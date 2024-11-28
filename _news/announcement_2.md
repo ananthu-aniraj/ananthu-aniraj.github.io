@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-PDiscoFormer has been accepted at the main conference of [ECCV 2024](https://eccv2024.ecva.net/) as an oral presentation!
+PDiscoFormer has been accepted at the main conference of [ECCV 2024](https://eccv.ecva.net/virtual/2024/index.html) as an oral presentation!
 
 ---
 
@@ -16,3 +16,4 @@ In our work, we explore computer vision methods that perform unsupervised part d
 
 - Preprint: [ArXiv](https://arxiv.org/abs/2407.04538).
 - Code and pre-trained models: [GitHub](https://github.com/ananthu-aniraj/pdiscoformer)
+- ECCV page: https://eccv.ecva.net/virtual/2024/poster/124
