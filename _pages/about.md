@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD researcher at [Inria](https://www.inria.fr/en), France, under the supervision of [Dr. Diego Marcos](https://scholar.google.com/citations?user=IUqydU0AAAAJ), in association with the [University of Montpellier](https://www.umontpellier.fr/). My research specializes in **Interpretable-by-Design** computer vision systems for fine-grained species classification. I am also co-supervised by [Dr. Cassio Fraga Dantas](https://cassiofragadantas.github.io/) and [Dr. Dino Ienco](https://scholar.google.com/citations?user=C8zfH3kAAAAJ). More information about my research group can be found [here](https://team.inria.fr/evergreen/).
+I am a PhD researcher at [Inria](https://www.inria.fr/en), France, under the supervision of [Dr. Diego Marcos](https://scholar.google.com/citations?user=IUqydU0AAAAJ), in association with the [University of Montpellier](https://www.umontpellier.fr/). My research specializes in Interpretable-by-Design computer vision systems for fine-grained species classification. I am also co-supervised by [Dr. Cassio Fraga Dantas](https://cassiofragadantas.github.io/) and [Dr. Dino Ienco](https://scholar.google.com/citations?user=C8zfH3kAAAAJ). More information about my research group can be found [here](https://team.inria.fr/evergreen/).
 
 I hold an M.Sc. in Embedded Systems from the [University of Twente](https://www.utwente.nl/en/), and a B.Tech in Electrical and Electronics Engineering with distinction from the [University of Kerala](https://www.keralauniversity.ac.in/).
 
