@@ -18,3 +18,4 @@ In our work, we explore computer vision methods that perform unsupervised part d
 - Code and pre-trained models: [GitHub](https://github.com/ananthu-aniraj/pdiscoformer)
 - Poster page: [Poster](https://eccv.ecva.net/virtual/2024/poster/124)
 - Presentation: [Oral](https://eccv.ecva.net/virtual/2024/oral/125)
+- Published Version: [Springer](https://link.springer.com/chapter/10.1007/978-3-031-73013-9_15)
