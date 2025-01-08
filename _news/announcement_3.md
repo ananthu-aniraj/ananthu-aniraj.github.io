@@ -7,5 +7,3 @@ related_posts: false
 ---
 
 My ECCV presentation on PDiscoFormer is now available on the conference website. You can watch it [here](https://eccv.ecva.net/virtual/2024/oral/125).
-
----
