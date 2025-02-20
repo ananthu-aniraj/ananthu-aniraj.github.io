@@ -55,3 +55,11 @@
 "li":
   - firstname: ["Yan Li", "Y. Li", "Yan", "Li"]
     url: https://www.linkedin.com/in/yan-li-49a60253/
+
+"mancini":
+  - firstname: ["Massimiliano Mancini", "M. Mancini", "Massimiliano", "Mancini"]
+    url: https://scholar.google.com/citations?user=bqTPA8kAAAAJ
+
+"ricci":
+  - firstname: ["Elisa Ricci", "E. Ricci", "Elisa", "Ricci"]
+    url: https://scholar.google.com/citations?user=xf1T870AAAAJ
