@@ -22,8 +22,4 @@ I am a PhD researcher at [Inria](https://www.inria.fr/en), France, under the sup
 
 I hold an M.Sc. in Embedded Systems from the [University of Twente](https://www.utwente.nl/en/), and a B.Tech in Electrical and Electronics Engineering with distinction from the [University of Kerala](https://www.keralauniversity.ac.in/).
 
-During my Master’s Degree, I worked on a project in collaboration with [Lely](https://www.lely.com/en/) on the development of a computer vision system for instance-level part segmentation of cows. My thesis work was supervised by Dr. Yan Li, [Dr. Nicola Strisciuglio](https://people.utwente.nl/n.strisciuglio), and [Dr. Luuk Spreeuwers](https://people.utwente.nl/l.j.spreeuwers).
-
 Before pursuing my PhD, I worked as a Computer Vision and Machine Learning R&D Engineer. I was mentored by Dr. Yan Li at Lely, where I contributed to innovative computer vision solutions for dairy farms. My work included developing machine learning algorithms for automated health monitoring of cows through multi-camera setups, as well as adapting semantic segmentation algorithms for visual scene understanding in customized farm environments.
-
-I am passionate about developing AI systems that are not only accurate but also interpretable. I believe that interpretability is key to building trust in AI systems. I am also committed to using AI to solve real-world problems and am a strong advocate for reproducible research.
