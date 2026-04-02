@@ -2,7 +2,7 @@
 layout: post
 title: iFAM has been accepted to appear at ICPR 2026
 date: 2026-03-31 22:37:00-0400
-inline: true
+inline: false
 related_posts: false
 ---
 
