@@ -6,3 +6,4 @@ repo_description_lines_max: 2
 github_repos:
   - ananthu-aniraj/masking_strategies_bias_removal
   - ananthu-aniraj/pdiscoformer
+  - ananthu-aniraj/ifam
