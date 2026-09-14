@@ -1711,6 +1711,11 @@ a.close.disabled {
     display: block !important;
   }
 }
+@media print {
+  .d-print-inline {
+    display: inline !important;
+  }
+}
 .flex-column {
   -ms-flex-direction: column !important;
   flex-direction: column !important;
