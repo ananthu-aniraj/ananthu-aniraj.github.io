@@ -14,6 +14,7 @@ Happy to share that my first PhD paper, titled 'Masking Strategies for Backgroun
 
 In our research, we focus on fine-grained image classification, such as identifying bird species from images. We identify a common issue where computer vision models learn to associate the species to their habitats (the image background), introducing bias. We propose some simple masking strategies to remove this bias.
 
+- Project Page: [Website](https://ananthu-aniraj.github.io/masking_strategies_bias_removal/)
 - Preprint: [ArXiv](https://arxiv.org/abs/2308.12127).
 - Code: [GitHub](https://github.com/ananthu-aniraj/masking_strategies_bias_removal)
 - Published Version: [ICCVW-OODCV](https://openaccess.thecvf.com/content/ICCV2023W/OODCV/html/Aniraj_Masking_Strategies_for_Background_Bias_Removal_in_Computer_Vision_Models_ICCVW_2023_paper.html)
