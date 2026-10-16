@@ -17,6 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Researcher at Inria. I recently completed my doctorate at the University of Montpellier (March 2026) under the supervision of [Dr. Diego Marcos](https://scholar.google.ch/citations?user=IUqydU0AAAAJ&hl=en).
+I am a Postdoctoral Researcher at Inria. I completed my doctorate at the University of Montpellier (March 2026) under the supervision of [Dr. Diego Marcos](https://dmarcosg.github.io/).
 
-I am interested in working at the intersection of computer vision and machine learning, with a focus on developing robust and efficient models for visual understanding.
+My research lies at the intersection of computer vision and machine learning, with a focus on developing robust, interpretable, and efficient models for visual understanding.
