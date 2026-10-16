@@ -15,3 +15,10 @@
 "ICCVW2023":
   url: https://www.computer.org/csdl/proceedings/iccvw/2023/1TangBBH5cI
   color: "#009f36"
+
+"ICPR2026":
+  url: https://www.icpr2026.org/
+  color: "#009f36"
+
+"European-Patent":
+  color: "#00369f"

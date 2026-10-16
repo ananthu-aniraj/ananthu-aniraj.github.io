@@ -154,6 +154,8 @@
       {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}
       {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}
+    {% elsif entry.type == 'patent' %}
+      {% capture entrytype %}<em>{% if entry.nationality == 'EP' %}European Patent{% else %}Patent{% endif %} {{ entry.number }}</em>{% if entry.assignee %} · {{ entry.assignee }}{% endif %}{% endcapture %}
     {% else %}
       {% capture entrytype %}{% endcapture %}
     {% endif %}
