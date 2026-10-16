@@ -15,9 +15,11 @@ nav_order: 1
 
 <div class="publications">
 
-{% bibliography --query @*[type!=patent] %}
+<h2 id="papers">Papers</h2>
 
-<h2 class="mt-4">Patents</h2>
+{% bibliography --query !@patent %}
+
+<h2 id="patents" class="mt-4">Patents</h2>
 
 {% bibliography --query @patent %}
 
