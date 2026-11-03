@@ -7,5 +7,3 @@ related_posts: false
 ---
 
 I am happy to announce that I have joined Wageningen University as a PostDoctoral researcher. I will be working in the [Artificial Intelligence Group](https://www.wur.nl/en/chair-groups/artificial-intelligence-group).
-
-

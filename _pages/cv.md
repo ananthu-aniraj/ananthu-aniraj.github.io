@@ -17,16 +17,20 @@ nav_order: 4
 ## Experience
 
 - **Wageningen University**, Wageningen, Netherlands
+
   - **Postdoctoral Researcher** _(Nov 2026 – Present)_
 
 - **Inria**, Montpellier, France
+
   - **Postdoctoral Researcher** _(Apr 2026 – Oct 2026)_
   - **Doctoral Researcher (PhD)** _(Apr 2023 – Mar 2026)_
 
 - **Università di Trento**, Trento, Italy
+
   - **Visiting Researcher** _(Feb 2025 – Apr 2025)_
 
 - **Lely**, Maassluis, Netherlands
+
   - **Machine Learning R&D Engineer** _(Sep 2020 – Mar 2023)_
   - **Machine Learning R&D Intern** _(Jan 2020 – Sep 2020)_
 
