@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher | Inria
+subtitle: Postdoctoral Researcher | Wageningen University
 profile:
   align: right
   image: prof_pic.jpg
@@ -17,6 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Researcher at Inria. I completed my doctorate at the University of Montpellier (March 2026) under the supervision of [Dr. Diego Marcos](https://dmarcosg.github.io/).
+I am a Postdoctoral Researcher at Wageningen University. I completed my doctorate at the University of Montpellier and Inria (March 2026) under the supervision of [Dr. Diego Marcos](https://dmarcosg.github.io/).
 
-My research lies at the intersection of computer vision and machine learning, with a focus on developing robust, interpretable, and efficient models for visual understanding.
+My research lies at the intersection of computer vision and machine learning, with a focus on developing robust for visual understanding.

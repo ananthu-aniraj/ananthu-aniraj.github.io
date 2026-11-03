@@ -16,31 +16,22 @@ nav_order: 4
 
 ## Experience
 
-- **Inria**, Montpellier, France
+- **Wageningen University**, Wageningen, Netherlands
+  - **Postdoctoral Researcher** _(Nov 2026 – Present)_
 
-  - **Postdoctoral Researcher** _(Apr 2026 – Present)_
+- **Inria**, Montpellier, France
+  - **Postdoctoral Researcher** _(Apr 2026 – Oct 2026)_
   - **Doctoral Researcher (PhD)** _(Apr 2023 – Mar 2026)_
-    - Researched novel Transformer architectures for robust and interpretable image understanding, developing part-centric models to eliminate spurious biases in complex scenes.
-    - Resulted in first-author oral presentations at **ECCV 2024** (oral, top 2.3%) and **ICPR 2026** (oral), as well as an **ICCVW 2023** workshop paper.
 
 - **Università di Trento**, Trento, Italy
-
   - **Visiting Researcher** _(Feb 2025 – Apr 2025)_
-    - Analyzed zero-shot generalization in novel interpretable deep learning models with the MHUG group.
 
 - **Lely**, Maassluis, Netherlands
-
   - **Machine Learning R&D Engineer** _(Sep 2020 – Mar 2023)_
-    - Developed and deployed production algorithms for computer vision and animal behavioral monitoring in autonomous robotic farming systems, resulting in two granted European Patents ([EP4291133B1](https://patents.google.com/patent/EP4291133B1/en), [EP4510823B1](https://patents.google.com/patent/EP4510823B1/en)).
-    - Engineered 2 large-scale deep learning systems from concept to deployment on edge devices (C++, ONNX, MLOps).
-    - Implemented a semi-automated data annotation pipeline with active learning, reducing labeling errors and boosting mAP by 20%.
-    - Mentored 4 master's thesis students through research internships and projects.
-  - **Computer Vision R&D Intern** _(Jan 2020 – Aug 2020)_
-    - Designed an instance-level part segmentation model for livestock, doubling baseline mAP in live farm environments.
+  - **Machine Learning R&D Intern** _(Jan 2020 – Sep 2020)_
 
 - **Corvus Drones**, Wageningen, Netherlands
   - **Computer Vision R&D Intern** _(Sep 2019 – Dec 2019)_
-    - Re-architected fiducial marker detection algorithms for GPU acceleration with CUDA, achieving 2x speedup.
 
 ---
 

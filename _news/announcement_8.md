@@ -14,3 +14,4 @@ I am excited to announce that our paper "Two-stage Vision Transformers and Hard 
 - Code: [GitHub](https://github.com/ananthu-aniraj/ifam)
 
 I would like to thank my co-authors and collaborators for their contributions to this work, and I look forward to sharing our findings with the community at ICPR 2026!
+
