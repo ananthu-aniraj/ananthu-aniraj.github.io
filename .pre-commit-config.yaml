@@ -16,5 +16,5 @@ repos:
         language: node
         types: [file]
         additional_dependencies:
-          - prettier
-          - "@shopify/prettier-plugin-liquid"
+          - prettier@3.1.1
+          - "@shopify/prettier-plugin-liquid@1.4.0"
