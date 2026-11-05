@@ -122,10 +122,17 @@
         {%- if site.email -%}
           {
             id: 'socials-email',
-            title: 'Send email',
+            title: '{% if site.protect_email %}Copy email{% else %}Send email{% endif %}',
             section: 'Socials',
             handler: () => {
-              window.open("mailto:{{ site.email | encode_email }}", "_blank");
+              {%- if site.protect_email -%}
+                {%- assign email_parts = site.email | split: '@' -%}
+                if (typeof window.copyProtectedEmail === "function") {
+                  window.copyProtectedEmail("{{ email_parts[0] }}", "{{ email_parts[1] }}");
+                }
+              {%- else -%}
+                window.open("mailto:{{ site.email | encode_email }}", "_blank");
+              {%- endif -%}
             },
           },
         {%- endif -%}

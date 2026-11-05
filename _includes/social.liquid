@@ -1,5 +1,12 @@
 {% if site.email %}
-  <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+  {% if site.protect_email %}
+    {% assign email_parts = site.email | split: '@' %}
+    <a href="#" class="al-email-protect" data-eu="{{ email_parts[0] }}" data-ed="{{ email_parts[1] }}" title="email"
+      ><i class="fa-solid fa-envelope"></i
+    ></a>
+  {% else %}
+    <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+  {% endif %}
 {% endif %}
 {% if site.telegram_username %}
   <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>
