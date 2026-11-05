@@ -117,7 +117,7 @@ $(document).ready(function () {
         },
         function () {
           showToast(address);
-        }
+        },
       );
       return;
     }
@@ -142,7 +142,9 @@ $(document).ready(function () {
   };
 
   function onActivate(event) {
-    var element = event.target.closest ? event.target.closest(".al-email-protect") : null;
+    var element = event.target.closest
+      ? event.target.closest(".al-email-protect")
+      : null;
     if (!element) {
       return;
     }
@@ -157,7 +159,9 @@ $(document).ready(function () {
       if (event.key !== " " && event.key !== "Spacebar") {
         return;
       }
-      var element = event.target.closest ? event.target.closest(".al-email-protect") : null;
+      var element = event.target.closest
+        ? event.target.closest(".al-email-protect")
+        : null;
       if (element) {
         event.preventDefault();
         copyAddress(addressOf(element));
